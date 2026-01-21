@@ -186,4 +186,4 @@ After that, you'll know how to:
 - ✅ Connect/disconnect domains
 - ✅ View deployment logs if something goes wrong
 
-**Let's get your website live!** 🚀
+**Let's get your website live with AHK!** 🚀
